@@ -6,7 +6,7 @@
 <img src="images/thumb1.png?raw=true"/>
 
 ---
-[Project 2 Title](https://docs.google.com/presentation/d/1TjQvNdL_hp2Kdtk_Wqtcj0B2jYLE2D_M/edit#slide=id.p7)
+[Climate Change and European Immigration](https://docs.google.com/presentation/d/1TjQvNdL_hp2Kdtk_Wqtcj0B2jYLE2D_M/edit#slide=id.p7)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
