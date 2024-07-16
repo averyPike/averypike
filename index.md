@@ -2,7 +2,7 @@
 
 ---
 
-[Project 1 Title](sample_page)
+[Analysis of Drivers of MLB Attendance]([sample_page](https://docs.google.com/presentation/d/1ZFd8RD8J5yV5e-JmHbX0emdnEuew9761Yzr3RlusMac/edit#slide=id.p))
 <img src="images/thumb1.png?raw=true"/>
 
 ---
