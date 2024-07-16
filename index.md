@@ -10,7 +10,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[PNW Weather and Traffic Incidents](https://docs.google.com/presentation/d/1P_Ec1Rurwbi2P0rROkHM2GRbwlfNNyApwZO4w5uU7Ts/edit#slide=id.p)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
