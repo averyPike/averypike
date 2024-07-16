@@ -2,7 +2,7 @@
 
 ---
 
-[Analysis of Drivers of MLB Attendance](pdf "pdf/An Analysis of MLB Baseball Data (1).pdf?raw=true")
+[Analysis of Drivers of MLB Attendance](pdf/An Analysis of MLB Baseball Data (1).pdf)
 <img src="images/thumb1.png?raw=true"/>
 
 ---
