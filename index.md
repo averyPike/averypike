@@ -2,7 +2,7 @@
 
 ---
 
-[Analysis of Drivers of MLB Attendance](https://docs.google.com/presentation/d/1ZFd8RD8J5yV5e-JmHbX0emdnEuew9761Yzr3RlusMac/edit#slide=id.p)
+[Analysis of Drivers of MLB Attendance](pdf "pdf/An Analysis of MLB Baseball Data (1).pdf?raw=true")
 <img src="images/thumb1.png?raw=true"/>
 
 ---
